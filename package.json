@@ -30,7 +30,7 @@
     "svix": "^1.21.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
-    "webhook": "^0.0.2",
+    "webhook": "^0.0.1",
     "yup": "^1.4.0",
     "zod": "^3.22.4"
   },
